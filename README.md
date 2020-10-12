@@ -20,14 +20,14 @@
 * Generate HTML report from reports/report.json `node utils/report-generator.js`
 
 ## Report
-[Latest Run Report](https://git.toptal.com/screening/ahmed-hamada/blob/master/1_E2E_Tests/reports/index.html)
+[Latest Run Report](https://github.com/AhmedHamada93/testcafe-e2e-ecommerce/blob/master/reports/index.html)
 
 ## Test Flows
-[Find test flow here](https://git.toptal.com/screening/ahmed-hamada/blob/master/1_E2E_Tests/testflows.md)
+[Find test flow here](https://github.com/AhmedHamada93/testcafe-e2e-ecommerce/blob/master/testflows.md)
 
 ## Detailed Automated Test Cases
-[Find detailed automated test cases here](https://git.toptal.com/screening/ahmed-hamada/blob/master/1_E2E_Tests/E2E_TESTCASES.xlsx)
+[Find detailed automated test cases here](https://github.com/AhmedHamada93/testcafe-e2e-ecommerce/blob/master/E2E_TESTCASES.xlsx)
 
 ## Bug Report
-[Find Bug Report Here](https://git.toptal.com/screening/ahmed-hamada/blob/master/1_E2E_Tests/bug.md)
+[Find Bug Report Here](https://github.com/AhmedHamada93/testcafe-e2e-ecommerce/blob/master/bug.md)
 
