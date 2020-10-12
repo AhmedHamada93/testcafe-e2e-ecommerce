@@ -1,0 +1,29 @@
+{
+  "Categories": {
+    "Tops": 2,
+    "Dresses": 5
+  },
+  "Size": {
+    "S": 7,
+    "M": 7,
+    "L": 7
+  },
+  "Color": {
+    "Beige": 1,
+    "White": 2,
+    "Green": 1,
+    "Pink": 1
+  },
+  "Compositions": {
+    "Polyester": 2,
+    "Viscose": 2
+  },
+  "Styles": {
+    "Casual": 3,
+    "Girly": 3
+  },
+  "Properties": {
+    "Colorful Dress": 1,
+    "Short Sleeve": 2
+  }
+}

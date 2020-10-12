@@ -1,0 +1,14 @@
+[
+  {
+    "appliedFilters": ["Dresses", "M", "White"],
+    "expectedNumberOfProducts": 1
+  },
+  {
+    "appliedFilters": ["Tops", "S", "Black"],
+    "expectedNumberOfProducts": 1
+  },
+  {
+    "appliedFilters": ["Tops", "Casual", "Short Sleeve"],
+    "expectedNumberOfProducts": 2
+  }
+]

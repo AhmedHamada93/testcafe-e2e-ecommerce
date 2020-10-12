@@ -1,0 +1,19 @@
+[
+  {
+    "emailStatus": "valid",
+    "valid": true,
+    "testName": "Registration process with valid email"
+  },
+  {
+    "emailStatus": "invalid",
+    "valid": false,
+    "testName": "Registration process with invalid email",
+    "errorMsg": "Invalid email address."
+  },
+  {
+    "emailStatus": "alreadyUsed",
+    "valid": false,
+    "testName": "Registration process with already registered email",
+    "errorMsg": "An account using this email address has already been registered."
+  }
+]

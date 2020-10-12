@@ -1,0 +1,40 @@
+[
+  {
+    "excludedFields": ["firstNameField"],
+    "errorMsg": "firstname is required."
+  },
+  {
+    "excludedFields": ["lastNameField"],
+    "errorMsg": "lastname is required."
+  },
+  {
+    "excludedFields": ["passwordField"],
+    "errorMsg": "passwd is required."
+
+  },
+  {
+    "excludedFields": ["addressField"],
+    "errorMsg": "address1 is required."
+
+  },
+  {
+    "excludedFields": ["cityField"],
+    "errorMsg": "city is required."
+
+  },
+  {
+    "excludedFields": ["postalCodeField"],
+    "errorMsg": "The Zip/Postal code you've entered is invalid"
+
+  },
+  {
+    "excludedFields": ["mobileField"],
+    "errorMsg": "You must register at least one phone number."
+
+  },
+  {
+    "excludedFields": ["stateDrpDwn"],
+    "errorMsg": "This country requires you to choose a State."
+
+  }
+]

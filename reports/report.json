@@ -1,0 +1,477 @@
+[
+  {
+    "description": "Registration",
+    "elements": [
+      {
+        "id": "ScenarioRegistration;Resitration full scenario",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Resitration full scenario",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/ahmedhamada/ecommerce-e2e-testcafe/tests/registration-tests.js:1:0"
+            },
+            "name": "Resitration full scenario",
+            "result": {
+              "duration": 12882,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Resitration full scenario</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioRegistration;Registration process with valid email",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Registration process with valid email",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/ahmedhamada/ecommerce-e2e-testcafe/tests/registration-tests.js:1:0"
+            },
+            "name": "Registration process with valid email",
+            "result": {
+              "duration": 7931,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Registration process with valid email</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioRegistration;Registration process with invalid email",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Registration process with invalid email",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/ahmedhamada/ecommerce-e2e-testcafe/tests/registration-tests.js:1:0"
+            },
+            "name": "Registration process with invalid email",
+            "result": {
+              "duration": 5695,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Registration process with invalid email</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioRegistration;Registration process with already registered email",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Registration process with already registered email",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/ahmedhamada/ecommerce-e2e-testcafe/tests/registration-tests.js:1:0"
+            },
+            "name": "Registration process with already registered email",
+            "result": {
+              "duration": 6155,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Registration process with already registered email</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioRegistration;Fill registration form without firstNameField",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Fill registration form without firstNameField",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/ahmedhamada/ecommerce-e2e-testcafe/tests/registration-tests.js:1:0"
+            },
+            "name": "Fill registration form without firstNameField",
+            "result": {
+              "duration": 10886,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Fill registration form without firstNameField</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioRegistration;Fill registration form without lastNameField",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Fill registration form without lastNameField",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/ahmedhamada/ecommerce-e2e-testcafe/tests/registration-tests.js:1:0"
+            },
+            "name": "Fill registration form without lastNameField",
+            "result": {
+              "duration": 11842,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Fill registration form without lastNameField</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioRegistration;Fill registration form without passwordField",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Fill registration form without passwordField",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/ahmedhamada/ecommerce-e2e-testcafe/tests/registration-tests.js:1:0"
+            },
+            "name": "Fill registration form without passwordField",
+            "result": {
+              "duration": 12812,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Fill registration form without passwordField</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioRegistration;Fill registration form without addressField",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Fill registration form without addressField",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/ahmedhamada/ecommerce-e2e-testcafe/tests/registration-tests.js:1:0"
+            },
+            "name": "Fill registration form without addressField",
+            "result": {
+              "duration": 11725,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Fill registration form without addressField</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioRegistration;Fill registration form without cityField",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Fill registration form without cityField",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/ahmedhamada/ecommerce-e2e-testcafe/tests/registration-tests.js:1:0"
+            },
+            "name": "Fill registration form without cityField",
+            "result": {
+              "duration": 11457,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Fill registration form without cityField</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioRegistration;Fill registration form without postalCodeField",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Fill registration form without postalCodeField",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/ahmedhamada/ecommerce-e2e-testcafe/tests/registration-tests.js:1:0"
+            },
+            "name": "Fill registration form without postalCodeField",
+            "result": {
+              "duration": 10847,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Fill registration form without postalCodeField</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioRegistration;Fill registration form without mobileField",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Fill registration form without mobileField",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/ahmedhamada/ecommerce-e2e-testcafe/tests/registration-tests.js:1:0"
+            },
+            "name": "Fill registration form without mobileField",
+            "result": {
+              "duration": 11844,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Fill registration form without mobileField</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      },
+      {
+        "id": "ScenarioRegistration;Fill registration form without stateDrpDwn",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Fill registration form without stateDrpDwn",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/ahmedhamada/ecommerce-e2e-testcafe/tests/registration-tests.js:1:0"
+            },
+            "name": "Fill registration form without stateDrpDwn",
+            "result": {
+              "duration": 11606,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Fill registration form without stateDrpDwn</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      }
+    ],
+    "id": "Registration",
+    "keyword": "Feature",
+    "line": 0,
+    "metadata": {
+      "app": {},
+      "browser": {
+        "name": "chrome",
+        "version": "85.0.4183"
+      },
+      "device": "Mac OS X",
+      "platform": {
+        "name": "osx",
+        "version": "10.13.6"
+      }
+    },
+    "name": "Registration",
+    "runInfo": {
+      "endTime": "2020-09-11T22:13:55.807Z",
+      "passed": 12,
+      "startTime": "2020-09-11T22:11:49.999Z",
+      "testCount": 12,
+      "userAgents": [
+        "Chrome 85.0.4183 / Mac OS X 10.13.6"
+      ],
+      "warnings": []
+    },
+    "skipped": false,
+    "tags": [
+      {
+        "line": 0,
+        "name": "@registration"
+      },
+      {
+        "line": 0,
+        "name": "@resitration"
+      },
+      {
+        "line": 0,
+        "name": "@full"
+      },
+      {
+        "line": 0,
+        "name": "@process"
+      },
+      {
+        "line": 0,
+        "name": "@valid"
+      },
+      {
+        "line": 0,
+        "name": "@email"
+      },
+      {
+        "line": 0,
+        "name": "@invalid"
+      },
+      {
+        "line": 0,
+        "name": "@already"
+      },
+      {
+        "line": 0,
+        "name": "@registered"
+      },
+      {
+        "line": 0,
+        "name": "@fill"
+      },
+      {
+        "line": 0,
+        "name": "@form"
+      },
+      {
+        "line": 0,
+        "name": "@without"
+      },
+      {
+        "line": 0,
+        "name": "@firstnamefield"
+      },
+      {
+        "line": 0,
+        "name": "@lastnamefield"
+      },
+      {
+        "line": 0,
+        "name": "@passwordfield"
+      },
+      {
+        "line": 0,
+        "name": "@addressfield"
+      },
+      {
+        "line": 0,
+        "name": "@cityfield"
+      },
+      {
+        "line": 0,
+        "name": "@postalcodefield"
+      },
+      {
+        "line": 0,
+        "name": "@mobilefield"
+      },
+      {
+        "line": 0,
+        "name": "@statedrpdwn"
+      }
+    ],
+    "uri": "/Users/ahmedhamada/ecommerce-e2e-testcafe/tests/registration-tests.js:1"
+  }
+]
